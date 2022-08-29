@@ -15,7 +15,7 @@ int ans(int arr[], int n, int res)
 int main(){
     int n;
     cin>>n;
-    int res=0;
+    int res=0; 
     int arr[n];
     for(int i=0; i<n; i++){
         cin>>arr[i];
